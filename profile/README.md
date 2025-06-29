@@ -1,8 +1,8 @@
-# 🚀 Tharindu Talks Tech
+# Tharindu Talks Tech🎙️
 
 <div align="center">
 
-![Tharindu Talks Tech Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=WWelcome+to+Tharindu+Talks+Tech;Empowering+Tech+Minds;Cloud+%7C+DevOps+%7C+Learning)
+![Tharindu Talks Tech Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tharindu+Talks+Tech;Empowering+Tech+Minds;Cloud+%7C+DevOps+%7C+Learning)
 
 **🌟 Empowering Tech Minds Through Knowledge Sharing 🌟**
 
