@@ -1,16 +1,12 @@
 # Tharindu Talks Tech🎙️
 
-<div align="center">
-
-![Tharindu Talks Tech Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tharindu+Talks+Tech;Empowering+Tech+Minds;Cloud+%7C+DevOps+%7C+Learning)
+![Tharindu Talks Tech Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=600&lines=Tharindu+Talks+Tech;Empowering+Tech+Minds;Cloud+%7C+DevOps+%7C+Learning)
 
 **🌟 Empowering Tech Minds Through Knowledge Sharing 🌟**
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAYZZNJ93wPy5E4pG1l)
 [![Website](https://img.shields.io/badge/Website-tharindukalhara.me-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://tharindukalhara.me)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tharinduk001)
-
-</div>
 
 ---
 
@@ -78,8 +74,6 @@ Our mission is to build a vibrant community where knowledge flows freely, helpin
 
 ## 🛠️ Technologies We Cover
 
-<div align="center">
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -98,11 +92,7 @@ Our mission is to build a vibrant community where knowledge flows freely, helpin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
-
 ## 📱 Join Our Community
-
-<div align="center">
 
 ### 🌐 **Connect With Us**
 
@@ -112,60 +102,17 @@ Our mission is to build a vibrant community where knowledge flows freely, helpin
 | 🌐 **Website** | Explore portfolio, blog posts, and comprehensive resources | [Visit Site](https://tharindukalhara.me) |
 | 📺 **YouTube** | Watch tutorials, tech talks, and hands-on demonstrations | [Subscribe](https://www.youtube.com/@tharinduk001) |
 
-</div>
-
-## 📊 Repository Structure
-
-```
-Tharindu-Talks-Tech/
-├── 🏛️ Cloud-Infrastructure/
-│   ├── AWS-Projects/
-│   ├── Azure-Solutions/
-│   └── GCP-Tutorials/
-├── 🔧 DevOps-Tools/
-│   ├── Docker-Compose-Files/
-│   ├── Kubernetes-Manifests/
-│   └── CI-CD-Pipelines/
-├── 🎓 Certification-Prep/
-│   ├── AWS-Certifications/
-│   ├── Azure-Certifications/
-│   └── Practice-Exams/
-├── 💻 Programming-Projects/
-│   ├── Python-Scripts/
-│   ├── JavaScript-Apps/
-│   └── Automation-Tools/
-└── 📚 Learning-Resources/
-    ├── Study-Guides/
-    ├── Cheat-Sheets/
-    └── Reference-Materials/
-```
-
 ## 🤝 How to Contribute
 
 We welcome contributions from the community! Here's how you can get involved:
 
-1. **🍴 Fork** any repository
-2. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)
-5. **🔄 Open** a Pull Request
-
-## 📈 Community Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/tharindukalhara?style=social)
-![GitHub stars](https://img.shields.io/github/stars/tharindukalhara?style=social)
-
-</div>
-
-## 🎉 Featured Projects
-
-> 🚧 **Coming Soon!** Check back regularly as we populate this organization with exciting projects and resources.
+1. **🍴 Fork** any repository  
+2. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)  
+3. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)  
+4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)  
+5. **🔄 Open** a Pull Request  
 
 ## 📞 Get in Touch
-
-<div align="center">
 
 **Have questions or suggestions?**
 
@@ -173,11 +120,7 @@ We welcome contributions from the community! Here's how you can get involved:
 💬 **WhatsApp:** [Join our community](https://whatsapp.com/channel/0029VbAYZZNJ93wPy5E4pG1l)  
 🐦 **Social:** Follow on [YouTube](https://www.youtube.com/@tharinduk001)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🌟 **"Sharing Knowledge, Building Communities, Empowering Futures"** 🌟
 
@@ -185,12 +128,6 @@ We welcome contributions from the community! Here's how you can get involved:
 
 ⭐ **Star this organization if you find it helpful!** ⭐
 
-</div>
-
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tharindu-talks-tech&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
