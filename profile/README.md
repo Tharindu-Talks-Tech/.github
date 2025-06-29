@@ -13,13 +13,7 @@ Welcome to **Tharindu Talks Tech** — the central hub where I, **Tharindu Kalha
 
 ## 🚀 About This Site
 
-This website is built to serve as the landing page for the **Tharindu Talks Tech** community — primarily based on [WhatsApp](https://wa.me/94713190319?text=Hi%20Tharindu%2C%20I'm%20interested%20in%20joining%20your%20tech%20community!). It's the place where I showcase key resources, community projects, learning paths, and more.
-
-### 🎨 Built With
-- ⚛️ [React](https://reactjs.org/)
-- 💨 [Tailwind CSS](https://tailwindcss.com/)
-- 🎞️ [Framer Motion](https://www.framer.com/motion/) for animations
-- 📦 [ShadCN/UI](https://ui.shadcn.dev/) components
+This website is built to serve as the landing page for the **Tharindu Talks Tech** community — primarily based on WhatsApp and supported through code, resources, and updates shared here on GitHub.
 
 ---
 
@@ -36,7 +30,11 @@ This website is built to serve as the landing page for the **Tharindu Talks Tech
 
 ## 📬 Join the Community
 
-👥 We’re growing every day. If you’re a student, professional, or enthusiast, feel free to [join the WhatsApp community](https://wa.me/94713190319?text=Hi%20Tharindu%2C%20I'm%20interested%20in%20joining%20your%20tech%20community!) and collaborate with like-minded tech learners!
+👥 We’re growing every day. If you’re a student, professional, or enthusiast, feel free to connect and collaborate:
+
+- 📱 WhatsApp Channel: [Join Now](https://whatsapp.com/channel/0029VbAYZZNJ93wPy5E4pG1l)
+- 🌍 Website: [tharindukalhara.me](https://tharindukalhara.me)
+- ▶️ YouTube: [@tharinduk001](https://www.youtube.com/@tharinduk001)
 
 ---
 
