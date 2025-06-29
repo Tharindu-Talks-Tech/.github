@@ -2,7 +2,7 @@
 
 ![Tharindu Talks Tech Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=600&lines=Tharindu+Talks+Tech;Empowering+Tech+Minds;Cloud+%7C+DevOps+%7C+Learning)
 
-**🌟 Empowering Tech Minds Through Knowledge Sharing 🌟**
+**🌟 In a Journey to Simplify DevOps & Cloud 🌟**
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAYZZNJ93wPy5E4pG1l)
 [![Website](https://img.shields.io/badge/Website-tharindukalhara.me-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://tharindukalhara.me)
